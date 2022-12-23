@@ -1,6 +1,6 @@
 # UAS Manajemen Basis Data
 
-##Kelompok 2 Manajemen Basis Data
+### Kelompok 2 Manajemen Basis Data
 - 1207050111 Rizky Rahmat Nugraha
 - 1207050118 Shabiq Ghazi Arkaan
 - 1207050126 Vinna Alfiati
