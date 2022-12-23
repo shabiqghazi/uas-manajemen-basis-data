@@ -2,7 +2,7 @@
 
 ## Cara Install dan Konfigurasi MongoDB / Nodejs
 ### Membuat Project Baru di MongoDB Atlas
-![image](https://user-images.githubusercontent.com/76445601/209292689-a4026357-4510-46bc-afc1-e2a4553dc06e.png | height=100)
+![image](https://user-images.githubusercontent.com/76445601/209292689-a4026357-4510-46bc-afc1-e2a4553dc06e.png)
 ### Membuat Cluster Baru
 ![image](https://user-images.githubusercontent.com/76445601/209292794-e33037ba-3c74-45f5-a2a2-5e2cb2de7e41.png)
 ### Connect ke Aplikasi Node js
