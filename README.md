@@ -1,5 +1,10 @@
 # UAS Manajemen Basis Data
 
+##Kelompok 2 Manajemen Basis Data
+- 1207050111 Rizky Rahmat Nugraha
+- 1207050118 Shabiq Ghazi Arkaan
+- 1207050126 Vinna Alfiati
+
 ## Cara Install dan Konfigurasi MongoDB / Nodejs
 ### Membuat Project Baru di MongoDB Atlas
 ![image](https://user-images.githubusercontent.com/76445601/209292689-a4026357-4510-46bc-afc1-e2a4553dc06e.png)
