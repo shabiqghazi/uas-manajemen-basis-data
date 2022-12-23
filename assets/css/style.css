@@ -1,0 +1,11 @@
+@import url('https://fonts.googleapis.com/css2?family=Barlow:wght@300;400;500;600&display=swap');
+*{
+  font-family: 'Barlow',sans-serif;
+}
+
+.bg-navbar{
+  background-color: rgb(40, 155, 155);
+}
+td, th {
+  vertical-align: middle;
+}
